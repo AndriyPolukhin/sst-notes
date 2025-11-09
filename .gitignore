@@ -18,6 +18,4 @@ node_modules
 .DS_Store
 
 requirements.md
-
-requirements./*
-requirements.md
+.requirements.md
